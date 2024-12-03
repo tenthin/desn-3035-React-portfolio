@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/tenthin/desn-3035-React-portfolio/static/css/main.958ba172.css",
+    "main.js": "/tenthin/desn-3035-React-portfolio/static/js/main.218a2e57.js",
+    "static/js/453.e5b00392.chunk.js": "/tenthin/desn-3035-React-portfolio/static/js/453.e5b00392.chunk.js",
+    "index.html": "/tenthin/desn-3035-React-portfolio/index.html",
+    "main.958ba172.css.map": "/tenthin/desn-3035-React-portfolio/static/css/main.958ba172.css.map",
+    "main.218a2e57.js.map": "/tenthin/desn-3035-React-portfolio/static/js/main.218a2e57.js.map",
+    "453.e5b00392.chunk.js.map": "/tenthin/desn-3035-React-portfolio/static/js/453.e5b00392.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.958ba172.css",
+    "static/js/main.218a2e57.js"
+  ]
+}
