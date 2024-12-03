@@ -149,7 +149,7 @@ jobs:
         uses: actions/upload-release-asset@v1
         with:
           upload_url: ${{ steps.create_release.outputs.upload_url }}
-          asset_path: ./downloaded_docs/terms.pdf
+          asset_path: ./downloaded_docs/README.pdf
           asset_name: terms.pdf
           asset_content_type: application/pdf
         env:
