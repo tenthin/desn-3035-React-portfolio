@@ -10,7 +10,7 @@ const Footer = () => {
           <img src="/assets/logo.png" alt="Logo" />
         </div>
         <div className="footer-social">
-          <h3>Follow Me</h3>
+          <h3>Follow Mee</h3>
           <div className="social-icons">
             <a href="https://www.instagram.com" target="_blank" rel="noreferrer">Instagram</a>
             <a href="https://www.linkedin.com" target="_blank" rel="noreferrer">LinkedIn</a>
